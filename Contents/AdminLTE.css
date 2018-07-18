@@ -84,6 +84,9 @@ body {
     -o-transform: translate(230px, 0);
     transform: translate(230px, 0);
   }
+  .media-obg{
+	  width: 260px !important;
+  }
 }
 .content-wrapper {
   min-height: 100%;
@@ -3263,7 +3266,7 @@ table.text-center th {
 .login-box-body,
 .register-box-body {
   background: #fff;
-  padding: 20px;
+ /*  padding: 20px; */
   border-top: 0;
   color: #666;
   -webkit-box-shadow: 15px 12px 26px -6px rgba(0,0,0,0.79);
@@ -3282,7 +3285,7 @@ table.text-center th {
   padding: 0 20px 20px 20px;
 }
 .social-auth-links {
-  margin: 10px 0;
+ /*  margin: 10px 0; */
 }
 /*
  * Page: 400 and 500 error pages
@@ -4983,6 +4986,14 @@ table.text-center th {
 
 /**********2018-07-18***********/
 .btm-bg-clr{
-  padding: 75px 0px;
-  background: #0073b7;
+  padding: 86px 0px;
+  background: #455B8B;
+  margin-top: -50px;
+}
+.media-obg{
+	display: inline-block;
+	width: 360px;
+	position: relative;
+	top: 15%;
+	padding-bottom: 20px;
 }
