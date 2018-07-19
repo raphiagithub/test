@@ -85,7 +85,7 @@ body {
     transform: translate(230px, 0);
   }
   .media-obg{
-	  width: 260px !important;
+	  width: 311px !important;
   }
 }
 .content-wrapper {
@@ -4997,3 +4997,5 @@ table.text-center th {
 	top: 15%;
 	padding-bottom: 20px;
 }
+
+ 
