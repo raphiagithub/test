@@ -3282,7 +3282,7 @@ table.text-center th {
 .register-box-msg {
   margin: 0;
   text-align: center;
-  padding: 0 20px 20px 20px;
+  padding: 0px 20px 0px 20px;
 }
 .social-auth-links {
  /*  margin: 10px 0; */
@@ -4986,7 +4986,7 @@ table.text-center th {
 
 /**********2018-07-18***********/
 .btm-bg-clr{
-  padding: 86px 0px;
+  padding: 10% 0px;
   background: #455B8B;
   margin-top: -50px;
 }
